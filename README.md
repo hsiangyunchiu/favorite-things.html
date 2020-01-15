@@ -22,7 +22,7 @@ Are there issues that have not yet been resolved that you want to let users know
 
 ## Support and contact details
 
-Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.
+Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code!
 
 ## Technologies Used
 
