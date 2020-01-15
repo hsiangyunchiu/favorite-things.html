@@ -30,7 +30,7 @@ Let people know what to do if they run into any issues or have questions, ideas 
 * _Angular UI-Router
 * _HTML
 * _CSS
-* -Javascript
+* _Javascript
 * _Bootstrap
 
 ### License
